@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to my First React web page</h1>
+        <h1>Welcome to my world</h1>
         <button className="user-button" onClick={()=>navigate('/users')}>user</button>
       </header>
     </div>
